@@ -10,3 +10,6 @@ I am self-organized and very motivated to become a good programmer. And once I s
 * HTML/CSS
 # __Work expierence:__ 
 [Social network](http://offbook-web.s3-website-us-east-1.amazonaws.com/)(not over yet)
+# __Education:__
+I learned C++ and React. Listened Basics course about Python,React. I study in College of Business and Law. I also learn JS on [codeacademy](https://www.codecademy.com/profiles/dev6252639018)
+# __English Level - A2+__

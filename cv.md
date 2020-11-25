@@ -5,7 +5,7 @@ I am self-organized and very motivated to become a good programmer. Now i progra
 # __Skills:__
 * C++
 * JS
-* Python
+* C#
 * React
 * HTML/CSS
 # __Work expierence:__ 

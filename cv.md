@@ -10,7 +10,7 @@ I am self-organized and very motivated to become a good programmer. I'm third-ye
 * HTML/CSS - 1 years experience
 * Unity - 1 month experience
 * SQL - 1 year experience
-#__More details about skills:___
+# __More details about skills:__
 C++ - first language which i learned using math skills, i tried embedded and know STL.
 C# - LINQ/ASP.NET MVC/ASP.NET Core/WPF/EntityFramework
 SQL - I took a course in college. Worked with (INNER/LEFT/RIGHT) JOIN. Developed some database using t-sql and EF(in C#).

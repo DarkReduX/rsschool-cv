@@ -11,11 +11,11 @@ I am self-organized and very motivated to become a good programmer. I'm third-ye
 * Unity - 1 month experience
 * SQL - 1 year experience
 # __More details about skills:__
-C++ - first language which i learned using math skills, i tried embedded and know STL.
-C# - LINQ/ASP.NET MVC/ASP.NET Core/WPF/EntityFramework
-SQL - I took a course in college. Worked with (INNER/LEFT/RIGHT) JOIN. Developed some database using t-sql and EF(in C#).
+* C++ - first language which i learned using math skills, i tried embedded and know STL.
+* C# - LINQ/ASP.NET MVC/ASP.NET Core/WPF/EntityFramework
+* SQL - I took a course in college. Worked with (INNER/LEFT/RIGHT) JOIN. Developed some database using t-sql and EF(in C#).
 # __Work expierence:__ 
 [Social network](http://offbook-web.s3-website-us-east-1.amazonaws.com/)(not over yet)
 # __Education:__
 I learned C++/C# and React. I study in College of Business and Law on programmer.
-# __English Level - Intermediate
+# __English Level__ - B2
